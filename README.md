@@ -2,7 +2,7 @@
 
 A small, reproducible backtesting framework for systematic strategies, built to
 measure performance the way a trading desk would: **walk-forward, after costs,
-with turnover, capacity, and tail risk** — not just a pretty gross equity curve.
+with turnover, capacity, and tail risk**.
 
 The reusable engine is the point; four strategies — cross-sectional momentum,
 ETF pairs / statistical arbitrage, the overnight effect, and a delta-hedged
